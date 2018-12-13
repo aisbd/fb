@@ -23,7 +23,7 @@ require "Fb/autoload.php";
 	/**
 	 * Facebook App URL
 	 */
-	const APP_URL = "http://www.echobd.net/fb";
+	const APP_URL = "http://echobd.net/fb";
 
 	public function __construct($profile_id = false)
 	{
@@ -122,7 +122,7 @@ require "Fb/autoload.php";
 		// 	file_put_contents('token', serialize($data));
 		// }
 		// $this->setDefaultAccessToken($token);
-		$this->setDefaultAccessToken("EAAYA1dm8VGABALXcZAkG2Gw8hWnymDJQuP2xlZA2v1ucY9ygtbS6oG0F4xHz3TQMwEpxsHzmzZAIeqpKNKRJiby6F2YorVTsZCbFvApdP7nPGNycq0w56apA3g950SKc7sUjjeZAWT8vXUZAIkmhvZCdfhMzrAfdp0ZD");
+		$this->setDefaultAccessToken("EAAYA1dm8VGABAF75a3gZB8eoMSmfUYtwdG82uRRgx87PqaiVVCLmfixGKuXgB9QbZBPNleQs8L9jfGTb6jAuwx26ZCZAsFXklzUeTvmhMT9UOaP5KNl2OjWKdBGRSUiQSytUKdMDwBeNbZCa6QaqlvJnzq6alZCeXldUcxVfMJEFocPoQfd5Jd7QiFtGFgz48ZD");
 		
 /*
 
